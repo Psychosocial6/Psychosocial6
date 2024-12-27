@@ -1,5 +1,5 @@
 <h1>Hi! My name is Andrey.</h1>
-<img src="readme/coding.webp" height="400" width="400">
+<img src="readme/coding.webp" height="281" width="500">
 <h2>Short info about me:</h2>
 <p><br>-I live in Saint-Petersburg, Russia🏢<br>-Studying at ITMO University💻<br>-Programming hard🔥</p>
 <!--
