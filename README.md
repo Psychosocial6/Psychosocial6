@@ -1,7 +1,6 @@
 <h1>Hi! My name is Andrey.</h1>
 <img src="readme/coding.webp" height="281" width="500">
-<h2>Short info about me:</h2>
-<p><br>-I live in Saint-Petersburg, Russia🏢<br>-Studying at ITMO University💻<br>-Programming hard🔥</p>
+<p><br>-I live in Saint-Petersburg, Russia🏢<br>-Studying at ITMO University💻</p>
 <!--
 <h2>Some stats:</h2>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Psychosocial6&theme=solarized_dark)
