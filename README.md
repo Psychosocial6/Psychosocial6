@@ -4,5 +4,6 @@
 <p><br>-Saint-Petersburg, Russia🏢<br>-ITMO University💻</p>
 </div>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Psychosocial6&theme=tokyonight&show_icons=true)
 
 
