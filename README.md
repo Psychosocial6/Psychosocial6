@@ -10,3 +10,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Psychosocial6&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosocial6&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
