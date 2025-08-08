@@ -12,4 +12,4 @@
 ### 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Psychosocial6&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosocial6&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosocial6&layout=donut&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
