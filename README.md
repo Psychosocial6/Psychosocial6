@@ -4,6 +4,8 @@
 <p><br>-Saint-Petersburg, Russia🏢<br>-ITMO University💻</p>
 </div>
 
+<hr>
+
 ### 🛠️ Skills
 
 **Programming:**  
@@ -21,7 +23,7 @@
 **Tools:**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Psychosocial6&theme=tokyonight&show_icons=true)
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosocial6&layout=donut&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Psychosocial6&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosocial6&layout=donut&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
